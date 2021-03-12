@@ -1,0 +1,10 @@
+C:\Users\vigyr\source\repos\NewTryCombAlg\bin\Debug\NewTryCombAlg.exe.config
+C:\Users\vigyr\source\repos\NewTryCombAlg\bin\Debug\NewTryCombAlg.exe
+C:\Users\vigyr\source\repos\NewTryCombAlg\bin\Debug\NewTryCombAlg.pdb
+C:\Users\vigyr\source\repos\NewTryCombAlg\obj\Debug\NewTryCombAlg.csprojAssemblyReference.cache
+C:\Users\vigyr\source\repos\NewTryCombAlg\obj\Debug\NewTryCombAlg.Properties.Resources.resources
+C:\Users\vigyr\source\repos\NewTryCombAlg\obj\Debug\NewTryCombAlg.csproj.GenerateResource.cache
+C:\Users\vigyr\source\repos\NewTryCombAlg\obj\Debug\NewTryCombAlg.csproj.CoreCompileInputs.cache
+C:\Users\vigyr\source\repos\NewTryCombAlg\obj\Debug\NewTryCombAlg.exe
+C:\Users\vigyr\source\repos\NewTryCombAlg\obj\Debug\NewTryCombAlg.pdb
+C:\Users\vigyr\source\repos\NewTryCombAlg\obj\Debug\NewTryCombAlg.BreakingAlgorithm.resources
